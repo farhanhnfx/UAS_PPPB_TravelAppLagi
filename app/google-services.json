@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371617063959",
+    "project_id": "travel-app-lagi",
+    "storage_bucket": "travel-app-lagi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371617063959:android:27f3280407b7cf97fae852",
+        "android_client_info": {
+          "package_name": "com.example.travelapplagi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGamVUhMGwquvxt1kLu0N13JDHIXGqSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
