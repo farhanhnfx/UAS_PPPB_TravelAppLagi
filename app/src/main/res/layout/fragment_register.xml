@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RegisterFragment"
+    tools:context=".main.RegisterFragment"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="32dp">
@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Daftar Akun"
-        android:textSize="40sp"
+        android:textSize="32sp"
         android:layout_marginBottom="48dp"
         android:fontFamily="@font/poppins_medium"
         />
@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nama:"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:layout_gravity="start"
         android:fontFamily="@font/poppins_medium"
         />
@@ -28,7 +28,7 @@
         android:id="@+id/edit_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:inputType="textPersonName"
         android:fontFamily="@font/poppins_medium"
         />
@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Username:"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:layout_gravity="start"
         android:fontFamily="@font/poppins_medium"
         />
@@ -44,7 +44,7 @@
         android:id="@+id/edit_username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:inputType="text"
         android:fontFamily="@font/poppins_medium"
         />
@@ -52,7 +52,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Email:"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:layout_gravity="start"
         android:fontFamily="@font/poppins_medium"
         />
@@ -60,7 +60,7 @@
         android:id="@+id/edit_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:inputType="textEmailAddress"
         android:fontFamily="@font/poppins_medium"
         />
@@ -68,7 +68,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Password:"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:layout_gravity="start"
         android:layout_marginTop="8dp"
         android:fontFamily="@font/poppins_medium"
@@ -77,7 +77,7 @@
         android:id="@+id/edit_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="16sp"
         android:inputType="textPassword"
         android:fontFamily="@font/poppins_medium"
         />
@@ -86,7 +86,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sudah punya akun? Masuk sini"
-        android:textSize="18sp"
+        android:textSize="14sp"
         android:layout_gravity="start"
         android:layout_marginVertical="4dp"
         android:fontFamily="@font/poppins_medium"

@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.travelapplagi.MainActivity
+import com.example.travelapplagi.main.MainActivity
 import com.example.travelapplagi.R
 import com.example.travelapplagi.databinding.ActivityDashboardUserBinding
 import com.example.travelapplagi.model.Favourite

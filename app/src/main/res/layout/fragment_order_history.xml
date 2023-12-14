@@ -52,6 +52,7 @@
         android:padding="12dp"
         android:textColor="@color/white"
         android:backgroundTint="@color/imrik_blue"
+        android:textAllCaps="false"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,4 +1,4 @@
-package com.example.travelapplagi
+package com.example.travelapplagi.main
 
 import android.content.Context
 import android.content.Intent

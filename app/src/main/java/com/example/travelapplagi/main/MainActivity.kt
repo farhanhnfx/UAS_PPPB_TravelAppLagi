@@ -1,10 +1,11 @@
-package com.example.travelapplagi
+package com.example.travelapplagi.main
 
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
+import com.example.travelapplagi.adapter.TabAdapter
 import com.example.travelapplagi.admin.DashboardAdminActivity
 import com.example.travelapplagi.databinding.ActivityMainBinding
 import com.example.travelapplagi.user.DashboardUserActivity
